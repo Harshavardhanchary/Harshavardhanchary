@@ -76,5 +76,4 @@ I’ve been steadily learning and applying **Core DevOps & Infrastructure concep
 - 🔗 [Portfolio Website](https://harshavardhan.space/)   
 
 ---
-
-⭐️ *“Automating today for a smoother tomorrow.”*  
+![Profile Views](https://komarev.com/ghpvc/?username=Harshavardhanchary&label=Profile%20visitors&color=0e75b6&style=flat) 
